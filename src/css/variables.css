@@ -1,0 +1,66 @@
+:root{
+    --color-1: #141414;
+    --color-2: #ffffff;
+    --color-3: #000000;
+
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Black";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Black.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-BlackItalic";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Bold";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Bold.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-BoldItalic";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-ExtraBold";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-ExtraBoldItalic";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-ExtraLight";
+    src: url("../stora/font/Roboto_Condensed/static/RobotoCondensed-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: "RobotoCondensed-ExtraLightItalic";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-ExtraLightItalic.ttf);
+}
+
+@font-face {
+    font-family: fac;
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Italic.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Light";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Light.ttf);
+}
+
+@font-face {
+    font-family: "RobotoCondensed-LightItalic";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: fac;
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Medium.ttf);
+}
