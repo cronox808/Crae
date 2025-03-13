@@ -1,0 +1,28 @@
+@import url(variables.css);
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+body{
+
+}
+
+.navbar{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    width: 46px;
+    height: 45px;
+}
+
